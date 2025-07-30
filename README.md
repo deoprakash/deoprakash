@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year **B.Tech CSE (AI)** student at **Shri Shankaracharya Institute of Professional Management & Technology**, Raipur  
+- 🎓 Final-year **B.Tech CSE (AI)** student at **Shri Shankaracharya Institute of Professional Management & Technology**, Raipur  
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**
 - 🌍 AIML Intern at **RTS Automation, Canada** – working on AI/ML solutions for manufacturing (predictive maintenance, quality control)
 - 🚀 Featured in *Dainik Bhaskar* and recognized by **Startup Chhattisgarh** for AI innovation in healthtech
@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/ESP32-999999?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetson-NVIDIA?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0000FF?style=for-the-badge&logo=protocols.io&logoColor=white" />
 </p>
-
 
 ---
 
@@ -92,6 +92,10 @@
 > NLP-based spam detection using TF-IDF & Naive Bayes, with custom Flask UI  
 🌐 [Live Demo](https://email-sms-spam-classifier-738l.onrender.com/)
 
+#### 🌦️ [Weather Assistant (Claude + MCP)](https://github.com/deoprakash/WeatherAssistantMCP)  
+> First MCP-powered assistant using `FastMCP` + Claude + wttr.in API | Fetch alerts & forecasts via Claude Inspector  
+📷 Screenshots in repo
+
 ---
 
 ### 📜 Certifications
@@ -113,7 +117,7 @@
 
 ### 📬 Get in Touch
 
-- 📫 Email: **deoprakash364@gmail.com**
+- 📢 Email: **deoprakash364@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/deo-prakash-152265225](http://www.linkedin.com/in/deo-prakash-152265225)
 - 🌐 GitHub: [github.com/deoprakash](https://github.com/deoprakash)
 
