@@ -1,24 +1,78 @@
-# 💫 About Me:
-- 🤖 AI/ML Engineer building **production-ready GenAI systems** — from prototypes to real-world deployment<br>- 🧠 Experienced in **RAG pipelines**, **Multi-Agent AI Systems**, **LLM-powered automation**, and **Time Series Forecasting**<br>- 🌍 Currently at **Grid Seven AI**, developing AI-driven analytics and automation solutions for enterprise workflows<br>- 📄 Published peer-reviewed research in **Deep Learning and Computer Vision** (IEEE, Springer Nature)<br>- 🚀 Passionate about bridging the gap between AI research and production, building scalable, reliable, and impactful intelligent systems
+<div align="center">
 
+# Hi, I'm Deo Prakash 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-prakash/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deoprakash364@gmail.com) 
+<a href="https://github.com/deoprakash">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%40+Grid+Seven+AI;Building+production-ready+GenAI+systems;RAG+%E2%80%A2+Multi-Agent+AI+%E2%80%A2+LLM+Automation+%E2%80%A2+Forecasting;Bridging+AI+research+and+real-world+deployment" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deoprakash&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deoprakash&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deoprakash&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deoprakash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-prakash/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deoprakash364@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=deoprakash&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=deoprakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I turn AI prototypes into **reliable, scalable systems that people actually use**. At **Grid Seven AI**, I build AI-driven analytics and automation for enterprise workflows. I also publish peer-reviewed research in **Deep Learning and Computer Vision** (IEEE, Springer Nature).
+
+| | |
+|---|---|
+| 🧠 **What I build** | RAG pipelines · Multi-agent systems · LLM-powered automation · Time-series forecasting |
+| 🏢 **Currently** | AI/ML Engineer at Grid Seven AI |
+| 📄 **Research** | Deep Learning & Computer Vision (IEEE, Springer Nature) |
+| 🎯 **Focus** | Production reliability, evaluation, and scalable GenAI architecture |
+| 💬 **Ask me about** | RAG, agent orchestration, MLOps, shipping ML to production |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br/>
+![Python](https://skillicons.dev/icons?i=py,ts,js,cpp,c,html)
+
+**AI / ML**<br/>
+![ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy)
+
+**Backend & Frontend**<br/>
+![Web](https://skillicons.dev/icons?i=fastapi,flask,express,react,vite,tailwind)
+
+**Data & Databases**<br/>
+![DB](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
+
+**Cloud & DevOps**<br/>
+![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,vercel,netlify)
+
+<!-- Add GenAI tools you use (LangChain, LangGraph, vector DBs, MLflow, etc.) as shields badges here -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=deoprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deoprakash&theme=tokyonight&hide_border=true&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=deoprakash&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to conversations about **GenAI, agentic systems, and research collaborations**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-prakash/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deoprakash364@gmail.com)
+
+*Thanks for stopping by, and feel free to ⭐ a repo you like!*
+
+</div>
